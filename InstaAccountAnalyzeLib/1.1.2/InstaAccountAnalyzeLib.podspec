@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     s.name         = "InstaAccountAnalyzeLib"
-    s.version      = "1.0.9"
+    s.version      = "1.1.2"
     s.summary      = "the best instagram analytics sdk."
     s.description  = <<-DESC
-    the best instagram analytics sdk.
+    the best instagram analytics sdk for you
     DESC
-    s.homepage     = "http://reportz.com"
+    s.homepage     = "http://google.com"
     s.license = { :type => 'Copyright', :text => <<-LICENSE
                    Copyright 2020
                    Permission is granted to...
