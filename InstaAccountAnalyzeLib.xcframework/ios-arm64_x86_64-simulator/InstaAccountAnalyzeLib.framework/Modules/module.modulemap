@@ -1,0 +1,11 @@
+framework module InstaAccountAnalyzeLib {
+  umbrella header "InstaAccountAnalyzeLib.h"
+
+  export *
+  module * { export * }
+}
+
+module InstaAccountAnalyzeLib.Swift {
+    header "InstaAccountAnalyzeLib-Swift.h"
+    requires objc
+}
