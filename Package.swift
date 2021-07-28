@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MyPackage",
+    name: "InstaAccountAnalyzeLib",
     products: [
         .library(name: "InstaAccountAnalyzeLib", targets: ["InstaAccountAnalyzeLib"])
     ],
